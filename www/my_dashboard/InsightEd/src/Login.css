@@ -160,7 +160,7 @@
     display: block;          /* Allows centering */
     margin: 0 auto 15px auto; /* Centers it and adds space below */
     object-fit: contain; 
-    box-shadow: #444;    /* Ensures image isn't stretched */
+        /* Ensures image isn't stretched */
 }
 
 /* Update header to remove old text margins if needed */
