@@ -1,0 +1,110 @@
+{
+  "Region I - Ilocos Region": {
+    "Ilocos Norte": ["Laoag City", "Batac", "Paoay", "Pagudpud", "Marcos"],
+    "Ilocos Sur": ["Vigan City", "Candon", "Santa", "Bantay", "Cervantes"],
+    "La Union": ["San Fernando City", "Bauang", "Agoo", "San Juan", "Santo Tomas"],
+    "Pangasinan": ["Lingayen", "Dagupan City", "Alaminos City", "Urdaneta", "San Carlos City"]
+  },
+  "Region II - Cagayan Valley": {
+    "Batanes": ["Basco", "Ivana", "Mahatao", "Uyugan", "Itbayat"],
+    "Cagayan": ["Tuguegarao City", "Cauayan City", "Ilagan", "Aparri", "Lal-lo"],
+    "Isabela": ["Ilagan", "Cauayan City", "Santiago City", "Echague", "Cabagan"],
+    "Nueva Vizcaya": ["Bayombong", "Solano", "Aritao", "Bambang"],
+    "Quirino": ["Cabarroguis", "Diffun", "Maddela"]
+  },
+  "Region III - Central Luzon": {
+    "Aurora": ["Baler", "Maria Aurora", "San Luis", "Dipaculao"],
+    "Bataan": ["Balanga City", "Orani", "Dinalupihan", "Abucay"],
+    "Bulacan": ["Malolos City", "Meycauayan", "San Jose del Monte", "Hagonoy"],
+    "Nueva Ecija": ["Cabanatuan City", "Palayan City", "Gapan", "San Jose"],
+    "Pampanga": ["San Fernando City", "Angeles City", "Mabalacat", "Porac"],
+    "Tarlac": ["Tarlac City", "Paniqui", "Capas", "Concepcion"],
+    "Zambales": ["Iba", "Olongapo City", "Subic", "Castillejos"]
+  },
+  "Region IV-A - CALABARZON": {
+    "Batangas": ["Batangas City", "Lipa City", "Tanauan", "Nasugbu"],
+    "Cavite": ["Imus", "Tagaytay", "Cavite City", "Bacoor", "Dasmariñas"],
+    "Laguna": ["Calamba", "Santa Rosa", "San Pablo", "Biñan", "San Pedro"],
+    "Quezon": ["Lucena City", "Tayabas", "Candelaria", "Sariaya"],
+    "Rizal": ["Antipolo", "Cainta", "Angono", "Taytay"]
+  },
+  "Region IV-B - MIMAROPA": {
+    "Marinduque": ["Boac", "Mogpog", "Gasan"],
+    "Occidental Mindoro": ["Mamburao", "San Jose", "Abra de Ilog"],
+    "Oriental Mindoro": ["Calapan", "Puerto Galera", "Baco", "Bansud"],
+    "Palawan": ["Puerto Princesa City", "El Nido", "Coron", "Roxas"],
+    "Romblon": ["Romblon", "Odiongan", "San Agustin"]
+  },
+  "Region V - Bicol Region": {
+    "Albay": ["Legazpi City", "Tabaco", "Ligao", "Daraga"],
+    "Camarines Norte": ["Daet", "Labo", "Jose Panganiban"],
+    "Camarines Sur": ["Naga City", "Iriga City", "Libmanan", "Sipocot"],
+    "Catanduanes": ["Virac", "Baras", "Bagamanoc"],
+    "Masbate": ["Masbate City", "Mobo", "Cataingan"],
+    "Sorsogon": ["Sorsogon City", "Gubat", "Bulusan"]
+  },
+  "Region VI - Western Visayas": {
+    "Aklan": ["Kalibo", "Malay", "Buruanga"],
+    "Antique": ["San Jose", "Sibalom", "Hamtic"],
+    "Capiz": ["Roxas City", "Panay", "Cuartero"],
+    "Guimaras": ["Jordan", "Nueva Valencia", "Buenavista"],
+    "Iloilo": ["Iloilo City", "Passi City", "Dumangas", "Pavia"],
+    "Negros Occidental": ["Bacolod City", "Talisay City", "Silay", "San Carlos City"]
+  },
+  "Region VII - Central Visayas": {
+    "Bohol": ["Tagbilaran", "Panglao", "Antequera", "Clarin"],
+    "Cebu": ["Cebu City", "Mandaue City", "Lapu-Lapu City", "Carcar", "Danao City"],
+    "Negros Oriental": ["Dumaguete", "Bayawan", "Bais", "Tanjay"],
+    "Siquijor": ["Siquijor", "Larena", "Lazi"]
+  },
+  "Region VIII - Eastern Visayas": {
+    "Biliran": ["Biliran", "Naval"],
+    "Leyte": ["Tacloban City", "Ormoc City", "Baybay", "Maasin"],
+    "Eastern Samar": ["Borongan", "Giporlos", "Salcedo"],
+    "Northern Samar": ["Catarman", "Laoang", "Allen"],
+    "Samar": ["Calbayog", "Catbalogan", "Paranas"],
+    "Southern Leyte": ["Maasin", "Sogod", "Padre Burgos"]
+  },
+  "Region IX - Zamboanga Peninsula": {
+    "Zamboanga del Norte": ["Dipolog", "Dapitan", "Manukan"],
+    "Zamboanga del Sur": ["Pagadian", "Zamboanga City", "Dumingag"],
+    "Zamboanga Sibugay": ["Iligan", "Kabacan", "Tampilisan"]
+  },
+  "Region X - Northern Mindanao": {
+    "Bukidnon": ["Malaybalay", "Valencia", "Manolo Fortich"],
+    "Camiguin": ["Mambajao", "Mahinog", "Sagay"],
+    "Lanao del Norte": ["Iligan", "Tubod", "Kapatagan"],
+    "Misamis Occidental": ["Oroquieta", "Ozamis City", "Tangub"],
+    "Misamis Oriental": ["Cagayan de Oro", "El Salvador City", "Gingoog"]
+  },
+  "Region XI - Davao Region": {
+    "Davao de Oro": ["Monkayo", "Nabunturan", "Compostela"],
+    "Davao del Norte": ["Tagum", "Panabo City", "Carmen"],
+    "Davao del Sur": ["Digos", "Davao City", "Santa Cruz"],
+    "Davao Occidental": ["Malita", "Don Marcelino", "Jose Abad Santos"],
+    "Davao Oriental": ["Mati", "Baganga", "Banaybanay"]
+  },
+  "Region XII - SOCCSKSARGEN": {
+    "Cotabato": ["Kidapawan", "M'lang", "Makilala"],
+    "Sarangani": ["Alabel", "Glan", "Kiamba"],
+    "South Cotabato": ["Koronadal", "Polomolok", "Santo Niño"],
+    "Sultan Kudarat": ["Tacurong", "Isulan", "Lambayong"]
+  },
+  "Region XIII - Caraga": {
+    "Agusan del Norte": ["Butuan", "Cabadbaran", "Buenavista"],
+    "Agusan del Sur": ["Bayugan", "Prosperidad", "San Francisco"],
+    "Dinagat Islands": ["San Jose", "Loreto", "Cagdianao"],
+    "Surigao del Norte": ["Surigao City", "Placer", "Claver"],
+    "Surigao del Sur": ["Tandag", "Bislig", "Cantilan"]
+  },
+  "Bangsamoro Autonomous Region in Muslim Mindanao": {
+    "Basilan": ["Isabela City", "Lamitan", "Maluso"],
+    "Lanao del Sur": ["Marawi", "Bacolod-Kalawi", "Wao"],
+    "Maguindanao": ["Sultan Kudarat", "Buluan", "Datu Piang"],
+    "Sulu": ["Jolo", "Indanan", "Kalingalan Caluang"],
+    "Tawi-Tawi": ["Bongao", "Sangat", "Languyan"]
+  },
+  "NCR - National Capital Region": {
+    "Metro Manila": ["Manila", "Quezon City", "Makati", "Caloocan", "Pasig", "Taguig", "Parañaque", "Pasay", "Mandaluyong", "Marikina"]
+  }
+}
